@@ -1,0 +1,7 @@
+mkdir npm-intro
+cd npm-intro
+npm init -y
+code .
+npm install figlet
+code asciiArtGenerator.js
+node asciiArtGenerator.js
